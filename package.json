@@ -2,6 +2,11 @@
   "name": "Inimus",
   "description": "Inimus is instagram private API wrapper for instagram access based on Instagram private API(https://github.com/dilame/instagram-private-api) ",
   "version": "0.1.1",
+  "author": {
+    "name": "Namespace",
+    "email": "contact@namespace.net.br",
+    "homepage": "http://www.namespace.net.br"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
